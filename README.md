@@ -1,4 +1,4 @@
-<div align="center">
+  <div align="center">
   <img height="150" src="https://readme-typing-svg.herokuapp.com/?lines=Kamel%20Mohamed;Front%20End%20Developer;Network%20Engineer&center=true&width=600&height=70&color=BD059C&vCenter=true&size=32&font=Fira%20Code&weight=700"  />
 </div>
 
@@ -14,8 +14,8 @@
   <a href="mailto:kamel_mohamed911@hotmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft-outlook logo"  />
   </a>
-  <a href='https://hox-studio.vercel.app/' target='_blank'>
-    WebSite
+ <a href="https://hox-studio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=itch&label=Hox&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="itch logo"  />
   </a>
 </div>
 
