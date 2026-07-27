@@ -93,7 +93,7 @@
     },
     "css_ecosystem": {
       "preprocessors": ["Sass", "Less"],
-      "frameworks": ["Bootstrap", "Material UI"],
+      "frameworks": ["Bootstrap", "Tailwind", "Material UI"],
       "animations": ["Framer Motion", "GSAP"],
       "focus": "Pixel-perfect, accessible, and modern UI design"
     },
